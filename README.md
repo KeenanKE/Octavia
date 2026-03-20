@@ -1,5 +1,5 @@
 # Octavia Carbon Challenge
-# README: CM4 Carrier Board & Electrical Panel Design
+# CM4 Carrier Board & Electrical Panel Design
 
 ## Overview
 
